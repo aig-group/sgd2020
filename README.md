@@ -1,5 +1,5 @@
 # sgd2020
-Code for Paper: Understanding Long-Range Memory Effects in Deep Neural Networks
+Code for Paper: Understanding Short-Range Memory Effects in Deep Neural Networks
 
 A demo for training with different mini-batch sizes is included.
 
