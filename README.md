@@ -5,4 +5,4 @@ A demo for training with different mini-batch sizes is included.
 
 If you have any question, please feel free to contact me.
 
-Email: cltan023@outlook.com
+Email: cltan023 at outlook.com
